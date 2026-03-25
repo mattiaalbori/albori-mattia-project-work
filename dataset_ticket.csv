@@ -1,0 +1,421 @@
+id,title,body,category,priority
+1,Anomalia stampante,La stampante laser ha un'anomalia nella stampa dei colori.,Tecnico,Bassa
+2,Fatture errate,Ci sono problemi con le fatture inviate dai fornitori questo mes.e,Amministrazione,Media
+3,Documentazioen,"Salve, avrei necessità che mi mandaste le certificaizoni uniche.",Amministrazione,Bassa
+4,PC bloccati,"I computer dell'ufficio non si accendono, siamo tutti fermi.",Tecnico,Alta
+5,Errroe IVA,L'importo caclolato per l'imposta contiene un errore.,Amministrazione,Media
+6,Guasto portale,"Buongirono, vi comunico che il portale pagamenti ha un guasto.",Amministrazione,Alta
+7,Calcolo sbagliato,Ho notato che la trattenuta in ubsta paga è sbgaliata.,Amministrazione,Media
+8,Virus,Malware rilevato. PC inutilizzabile.,Tecnico,Alta
+9,iVrus,Malware rilevato. PC inutilizzabile.,Tecnico,Alta
+10,Server offline,"Il server princpiale ha subito un guasto hardware, siamo offlin.e",Tecnico,Alta
+11,Virus,Malware rilevato. PC inutilizzabile.,Commerciale,Alta
+12,Errore contratto,C'è un errore di battitura nella clausola 4 del contratto.,Commerciale,Media
+13,Invio cataloghi,Ricordatevi di mandare i pdf con i nuovi cataloghi ai clienti stoirci.,Commerciale,Bassa
+14,Coordinate IBAN,Mandatemi l'IBAN per il nuovo cliente americano.,Commerciale,Bassa
+15,Guasto,Rete giù. Fate presto.,Tecnico,Alta
+16,Call,Domani alle 10 call con prospect.,Commerciale,Alta
+17,Sconto,Applicare sconot 10% subito.,Commerciale,Bassa
+18,PC bloccato,"Il computre non si accende, la situazione è bloccante per il mio lavoro.",Tecnico,Alta
+19,Errroe IVA,L'importo calcolato per l'imposta contiene un errore.,Amministrazione,Media
+20,Anomalai listino,Ho riscontrato un'anomalia nel prezzo caricato a sistema.,Commerciale,Media
+21,Errori di sistema,"I programmi restituiscono continiu errori, non irusciamo a lavorare.",Tecnico,Media
+22,Probleam legale,Vi scrivo urgentemente perché il clietne ha mniacciato vie lgeali.,Commerciale,Alta
+23,Password,Password scaduta. Reste urgente.,Tecnico,Media
+24,Codici IBAN,Mandatemi i codici bancari e gli IBAN per i nuovi clienti.,Amministrazione,Bassa
+25,Sconto,Applicare sconto 10% subito.,Commerciale,Bassa
+26,Server offline,"Il server pirncipale ha subito un guasto hardware, simao offline.",Tecnico,Alta
+27,Pagametno,Pagamento fornitore erspinto.,Amministrazione,Media
+28,Calcloo sbagliato,Ho notato che la trattenuta in busta paga è sbagliata.,Amministrazione,Media
+29,Errori IVA,Gli importi caloclati per le imposte contengono numerosi errori.,Amministrazione,Media
+30,Guasto portale,"Buongiorno, vi comunico che il portale pagamenti ha un guasto.",Amministrazione,Alta
+31,Errore contratto,C'è un errore di battitrua nella clausola 4 del contratto.,Commerciale,Media
+32,Errori di sisetma,"I programmi restituiscono continui errori, non riusciamo a lavorare.",Tecnico,Media
+33,PC bloccato,"Il copmuter non si accende, la situazione è bloccante per il mio lavoro.",Tecnico,Alta
+34,Stipendio bloccato,Il bonifico del mio stipendio è bloccato in banca.,Amministrazione,Alta
+35,Cdoici IBAN,Mandatemi i codici bancari e gli IBAN per i nuovi clienti.,Amministrazione,Bassa
+36,Preventivi sbagliati,"Abbiamo inviato delle offerte con i prezzi sbagliati, vanno corrette.",Commerciale,Media
+37,Ritardo,Forte ritardo consegna. Cliente furioso.,Commerciale,Media
+38,Fattura da controllaer,C'è un problema con la fattura del forniotre Rossi.,Amministrazione,Media
+39,Fatture errate,Ci sono porblemi con le fatture inviate dai ofrnitori questo mese.,Amministrazione,Media
+40,Software in carsh,"Salve, volevo segnalare che il gestionale crasha in continuazione.",Tecnico,Alta
+41,Guasto,Rete giù. Fate presto.,Tecnico,Alta
+42,Urgenza monitor,"Lo schermo è nero, mi serve un intervento urgente.",Tecnico,Media
+43,Contratti scaduti,"I rinnovi dei cnotratti sono scaduti, dobbiamo ricontattarli.",Commerciale,Alta
+44,Server guasti,"I server principali sono caduti, l'intera rete aziendale è giù.",Tecnico,Alta
+45,Sconto,Applicare sconto 10% subito.,Commerciale,Bassa
+46,Virus,Malware rlievato. PC inutilizzabile.,Tecnico,Alta
+47,Fattuar da controllare,C'è un problema con la fattura del ofrnitore Rossi.,Amministrazione,Media
+48,Codici IBAN,Mandatemi i codici bancari e gli IBAN per i nuovi clienti.,Amministrazione,Bassa
+49,Errore IVA,L'importo calcolato per l'imposta contiene un errore.,Amministrazione,Media
+50,Problema legale,Vi scrivo urgentemente perché il cliente ha minacciato vie legali.,Commerciale,Alta
+51,Lentezza navigazione,"Buongiorno, vi scrivo per segnalare che da questa mattina si registra un rallentamento della rete.",Tecnico,Media
+52,Urgenza monitor,"Lo schermo è nero, mi sevre un intervento urgente.",Tecnico,Alta
+53,uGasto,Rete giù. Fate presto.,Tecnico,Alta
+54,Contartti scaduti,"I rinnovi dei contratti sono scaduti, dobbiamo ricontattarli.",Commerciale,Alta
+55,Anomalia stampante,La stampante laser ha un'anomalia nella stampa dei colori.,Tecnico,Media
+56,F24,Scadenza F24 oggi. Urgente!,Amministrazione,Alta
+57,Stampatni rotte,"Le stampanti del secodno piano sono rotte, i toner sono difettosi.",Tecnico,Media
+58,F24,Scadenza F24 oggi. Urgente!,Amministrazione,Alta
+59,Ritardo,Frote ritardo consegna. Cliente furioso.,Commerciale,Media
+60,Fatture errate,Ci sono probleim con le fatture inviate dai fornitori questo mese.,Commerciale,Media
+61,Preventivi sbagliati,"Abbiamo inviato delle offerte con i prezzi sbagliati, vanno corrette.",Commerciale,Media
+62,Call,Domani alle 10 call con prospect.,Commerciale,Bassa
+63,Nuovi lead,Abbimao ricevuto ottimi contatti e nuovi lead dall'evento di ieri.,Commerciale,Bassa
+64,Strategia fiera,"In seguito all'evento di ieri, vorrei fissare un incontro per discutere la strategia.",Commerciale,Bassa
+65,Stampanti ortte,"Le stampanit del secondo piano sono rtote, i tnoer sono difettosi.",Tecnico,Media
+66,Server guasti,"I server princpiali sono caduti, l'intera rete aziendale è giù.",Tecnico,Alta
+67,Softawre in carsh,"Salve, volevo segnalaer che il gestoinale crasha in continuazione.",Amministrazione,Alta
+68,Preventivo sbagliato,"Abbiamo inviato un'offerta con un prezzo sbagliato, va corretta.",Commerciale,Media
+69,Password,Password scaduta. Reset urgente.,Tecnico,Alta
+70,Stipendi lboccati,"I bonifici dgeli stipendi sono stati respinti, situazione grave.",Amministrazione,Alta
+71,Stampanti rotte,"Le stampanti del secondo piano sono rotte, i toner sono difettosi.",Tecnico,Media
+72,Anomalai listino,Ho riscontrato un'anomalia nel prezzo caricato a sistema.,Commerciale,Media
+73,F24,Scadenza F24 oggi. Urgente!,Amministrazione,Alta
+74,Spese,Allego note spese.,Amministrazione,Bassa
+75,PC bloccato,"Il computer non si accende, la situazione è bloccante per il mio lavroo.",Tecnico,Alta
+76,Invio cataloghi,Ricordatevi di mandaer i pdf con i nuovi cataloghi ai clienti stoirci.,Commerciale,Bassa
+77,Contratti scaduti,"I rinnovi dei contratti sono scaduti, dobbiamo ricontattarli.",Commerciale,Alta
+78,Fattura da controllare,C'è un problema con la fattura del fornitore Rossi.,Amministrazione,Media
+79,Stipendio bloccato,Il bonifico del mio stipendio è bloccato in banca.,Amministrazione,Alta
+80,Ordine bloccato,"La spedizione per il cliente VIP è ferma, situazione cirtica.",Commerciale,Alta
+81,Errore contratto,C'è un errore di battitura nella clausola 4 del contratto.,Commerciale,Media
+82,Errori IVA,Gli importi calcolati per le imposte contengono numerosi errori.,Amministrazione,Media
+83,Guasto,Rete giù. Fate presto.,Tecnico,Bassa
+84,Spese,Allego note spese.,Amministrazione,Bassa
+85,Monitor spenti,Gli schermi delle nuove postazoini rimangono neri.,Tecnico,Bassa
+86,Errori di sistema,"I progrmami restituiscono continui errori, non riuscimao a lavorare.",Tecnico,Media
+87,Server guasti,"I sevrer principali sono caduti, l'intera rete aziendale è giù.",Tecnico,Alta
+88,Monitor spenti,Gli schermi delle nuove postazioni rimangono neri.,Tecnico,Bassa
+89,F24,Scadenza F24 gogi. Urgente!,Amministrazione,Alta
+90,Stipendi bloccati,"I bonfiici degli stipendi sono stati respinti, situazione grav.e",Amministrazione,Alta
+91,Ritardo,Forte ritadro consegn.a Cliente furioso.,Commerciale,Media
+92,Preventivo sbagliato,"Abbiamo inviato un'offerta con un prezzo sbagliato, va corretta.",Commerciale,Media
+93,Ordini bloccati,Le spedizioni per i clienti VIP sono ferme in magazzino.,Commerciale,Alta
+94,Ritardo,Forte ritardo consegna. Cliente furioso.,Commerciale,Media
+95,Preventivo sbagliato,"Abbiamo inviato un'offerta con un prezoz sbagliato, va corretta.",Commerciale,Media
+96,Fatture errate,Ci sono problemi con le fatture inviate dai fornitori questo mese.,Amministrazione,Media
+97,PC bloccati,"I computer dell'ufficio non si accendono, siamo tutti fermi.",Tecnico,Alta
+98,Ordine bloccato,"La spedizione per il cliente VIP è ferma, situazione critica.",Commerciale,Alta
+99,Errori di sistema,"I programmi restituiscono continui errori, non riusciamo a lavorare.",Tecnico,Media
+100,Errori IVA,Gli importi calcolati per le imposte contengono numerosi errori.,Amministrazione,Media
+101,Call,Domani alle 10 call con prospect.,Commerciale,Bassa
+102,Strategia fiera,"In seguito all'evento di ieri, vorrei fissare un incontro per discutere la strategia.",Commerciale,Bassa
+103,Guasto portale,"Buongiorno, vi comunico che il portale pagamenti ha un guasto.",Amministrazione,Alta
+104,Anomalia stampante,La stampante laser ha un'anomalia nella stampa dei colori.,Tecnico,Media
+105,Invio cataloghi,Ricordatevi di mandrae i pdf con i nuovi cataloghi ai clienti storici.,Commerciale,Bassa
+106,PC bloccato,"Il cmoputer non si accende, la situazione è bloccante per il mio lavoro.",Tecnico,Alta
+107,Spese,Allego note spese.,Amministrazione,Bassa
+108,Preventivo sbagliato,"Abbiamo inviato un'offerta con un prezzo sbagliato, va corretta.",Commerciale,Media
+109,Stipnedio bloccato,Il bonifico del mio stipendio è bloccato in banca.,Amministrazione,Alta
+110,Errore contratto,C'è un errore di battitura nella clausola 4 del contratto.,Commerciale,Media
+111,Anomalia lsitino,Ho riscontraot una'nomalia nel prezzo caricato a sistmea.,Commerciale,Media
+112,Strategia fiera,"In seguito all'evento di ieri, vorrei fissare un incontro per discutere la strategia.",Commerciale,Bassa
+113,Ordine bloccato,"La spedizione per il cliente VIP è ferma, situazione critica.",Commerciale,Alta
+114,PC bloccati,"I computer dell'ufficio non si accendono, siamo tutti ferim.",Tecnico,Alta
+115,Softwaer in crash,"Salve, volevo segnalare che il gestionale crasha in continuazione.",Tecnico,Alta
+116,Fatture errate,Ci sono prbolemi con le fatture inviate dai fornitori questo mese.,Amministrazione,Media
+117,Errore IVA,L'importo calcolato per l'imposta contiene un errroe.,Commerciale,Media
+118,Nuovi lead,Abbiamo ricevuto ottimi contatti e nuovi lead dall'evento di ieri.,Commerciale,Bassa
+119,Nuovi lead,Abbiamo ricevuto ottimi contatti e nuovi lead dall'evento di ieri.,Commerciale,Bassa
+120,Stipendio bloccato,Il bonifico del mio stipendio è bloccato in banca.,Amministrazione,Alta
+121,Errore IVA,L'importo calcolato per l'imposta contiene un errore.,Amministrazione,Media
+122,Monitor spenti,Gli schermi delel nuove postazioni rimangono neri.,Tecnico,Bassa
+123,Anomalia listino,Ho riscontrato un'anomalia nel prezzo caricato a sistema.,Commerciale,Media
+124,aFtture errate,Ci sono problemi con le fatture invitae dai fornitori questo mese.,Amministrazione,Media
+125,Coordinate IBAN,Mandatemi l'IBAN per il nuovo cliente americano.,Amministrazione,Bassa
+126,Server offline,"Il server principale ha subito un guasto hardware, isamo offline.",Tecnico,Alta
+127,Nuovi lead,Abbiamo ricevuto ottimi contatti e nuovi lead dall'evento di ieri.,Commerciale,Bassa
+128,Coordinate IBAN,Mandatemi l'IBAN per il nuovo cliente americano.,Amministrazione,Bassa
+129,Rimborsi ritardo,Ci sono ritardi nei rimborsi delle trasferte di Roma e Milano.,Amministrazione,Media
+130,Errori IVA,Gli importi calcolati per le imposte contengono numeorsi errori.,Amministrazione,Media
+131,Preventivo sbagliato,"Abbimao inviato un'offerta con un prezzo sbalgiato, va corertta.",Commerciale,Media
+132,Nuovi lead,Abibamo ricevuto ottmii contatti e nuovi lead dall'evento di ieri.,Commerciale,Bassa
+133,Codici IBAN,Mandatemi i codici bancari e gli IBAN per i nuovi clienti.,Amministrazione,Bassa
+134,Stampanti rotte,"Le stampanti del secondo piano sono rotte, i toner sono difettosi.",Tecnico,Media
+135,Fatture errate,Ci sono problemi con le fatture inviate dai fornitori questo mees.,Amministrazione,Media
+136,Monitor spenti,Gli schermi delle nuove postazioni rimangono enri.,Tecnico,Bassa
+137,Coordinate IBAN,Mandatemi l'IBAN per il unovo lciente americano.,Amministrazione,Bassa
+138,Server offline,"Il sevrer principale ha subito un guasto hardware, siamo offline.",Tecnico,Alta
+139,Stipendio bloccato,Il bonifico del mio stipendio è bloccato in banca.,Amministrazione,Alta
+140,Guasto,Rete giù. Fate presto.,Tecnico,Alta
+141,Virus,Malware rilevaot. PC inutilizzabile.,Tecnico,Alta
+142,Calcolo sbagliato,Ho notato che la trattenuta in busta paga è sbagliata.,Amministrazione,Media
+143,Erroer di sistema,Il programma restituisce un errore durante il salvataggio.,Tecnico,Media
+144,Spese,Allego note spese.,Amministrazione,Bassa
+145,Server guasti,"I server principali sono caduti, l'intera rete aziendale è giù.",Tecnico,Alta
+146,Pagamento,Pagaemnto fornitore respinto.,Amministrazione,Bassa
+147,PC bloccato,"Il computer non si accende, la situazione è bloccante per il mio lavoro.",Amministrazione,Media
+148,Lentezza navigazione,"Buongoirno, vi scrivo per segnalare che da questa mattina si registra un rallentamento della rete.",Tecnico,Media
+149,Nuovi lead,Abbiamo ricevuto totimi contatti e nuovi lead dall'evento di ieir.,Commerciale,Bassa
+150,Problmea legale,Vi scrivo urgentemente perché il clinete ha minaccaito vie legali.,Commerciale,Alta
+151,Contrtato in csadenza,"Il rinnovo è scaudto ieri, rischiamo di perdere il cliente, urgente!",Commerciale,Alta
+152,Urgenza mointor,"Lo schermo è nero, mi serve un intervento urgente.",Tecnico,Alta
+153,Server guasti,"I server principali sono caduti, l'intera rete aziendale è giù.",Tecnico,Alta
+154,Strategia fiera,"In seguito all'evento di ieri, vorrei fisasre un incontor per discutere la strategia.",Commerciale,Bassa
+155,Sevrer guasti,"I server principali sono caduti, l'intera rete aziednale è giù.",Tecnico,Alta
+156,Contratto in scadenza,"Il rinnovo è scaduto ieri, rischiamo di perdere il cliente, urgente!",Commerciale,Alta
+157,Server offline,"Il server principale ha subito un guasto hardware, siamo offline.",Tecnico,Alta
+158,Codici IBAN,Mandatemi i codici bancari e gli IBAN per i nuovi clienti.,Amministrazione,Bassa
+159,Errori di sistema,"I programmi restituiscono continui errori, non riusciamo a lavorare.",Tecnico,Media
+160,Problema legale,Vi scrivo urgnetemente perché il cliente ha minacciato vie legali.,Commerciale,Alta
+161,Software in crash,"Salve, volveo segnalare che il gestionale crasha in continuazione.",Tecnico,Alta
+162,PC bloccati,"I computer dell'ufficio non si accendono, siamo tutti fermi.",Tecnico,Alta
+163,Pezzo idfettoso,Il mouse appena consegnato sembra difettoso.,Tecnico,Bassa
+164,Nuovi lead,Abbiamo ricevuto ottimi contatti e nuovi lead dall'evento di ieri.,Commerciale,Bassa
+165,Rimborsi ritardo,Ci sono ritardi nei rimborsi delle trasferte di Roma e Milano.,Amministrazione,Media
+166,Ordine bloccato,"La spedizione per il cliente VIP è ferma, situazione critica.",Commerciale,Alta
+167,Spese,Allego note spese.,Amministrazione,Media
+168,Monitor spenti,Gli schermi delle nuove postazioni rimangono neri.,Tecnico,Bassa
+169,Guasto potrale,"Buongirono, vi comunico che il portale pagamenti ha un guasto.",Amministrazione,Alta
+170,Urgenza monitor,"Lo schermo è nero, mi serve un intervento urgente.",Tecnico,Alta
+171,Codici IBAN,Mandatemi i codici bancari e gli IBAN per i nuovi clienti.,Amministrazione,Media
+172,Invio cataloghi,Ricordatevi di mandare i pdf con i nuovi cataloghi ai clienti storic.i,Commerciale,Bassa
+173,Urgenza monitor,"Lo schermo è ner,o mi serve un intervento urgente.",Tecnico,Alta
+174,Pagamento,Pagamento fornitore respinot.,Amministrazione,Bassa
+175,Contratti scaduti,"I rinnovi dei contratti sono scadut,i dobbiamo ricontattarl.i",Commerciale,Alta
+176,Preventivi sbagliati,"Abbiamo inviato dlele offerte con i prezzi sbagliati, vnano corrette.",Commerciale,Alta
+177,Monitor psenti,Gli schermi delle nuove postazioni rimangono neri.,Tecnico,Bassa
+178,Pezzo difettoso,Il mouse appena consegnato sembra idfettoso.,Commerciale,Media
+179,Coordinate IBAN,Mandatemi l'IBAN per il nuovo cliente americano.,Amministrazione,Bassa
+180,Documentazione,"Salve, avrei necessità che mi mandaste le certificazioni uniche.",Amministrazione,Bassa
+181,Errori IVA,Gli importi calcolati per le imposte contengono numerosi errori.,Amministrazione,Media
+182,Docmuentazione,"Salve, avrei necessità che mi mandaste le certificazioni uniche.",Amministrazione,Bassa
+183,Guasto,Rete giù. Fate prest.o,Tecnico,Alta
+184,Software in crash,"Salve, volevo segnalare che il gestionale crasha in continuazione.",Tecnico,Alta
+185,Invio cataloghi,Ricordatevi di mandare i pdf con i nuovi cataloghi ai clienti storici.,Commerciale,Bassa
+186,Invio cataloghi,Ricordatevi di mandare i pdf con i nuovi cataloghi ai clienti stoirci.,Commerciale,Bassa
+187,Documentazione,"Salve, avrei necsesità che mi mandaste le certificazioni uniche.",Amministrazione,Bassa
+188,Preventivi sbagliati,"Abbiamo inviaot delle offerte con i prezzi sbagliati, vanno corrette.",Commerciale,Media
+189,Errori di sistema,"I programmi restituiscono continui errori, non riusciamo a lavorare.",Tecnico,Media
+190,Password,Password scaduta. Reset urgente.,Tecnico,Alta
+191,Invio cataloghi,Ricordatevi di mandare i pdf con i nuovi cataloghi ai clienti storici.,Commerciale,Bassa
+192,Server gausti,"I server principali sono caduti, 'lintera rete aziendale è giù.",Tecnico,Alta
+193,Calcolo sbagliato,Ho notaot che la trattenuta in busta paga è sbagliata.,Amministrazione,Media
+194,Errore IVA,L'importo calcolato per l'imposta cnotiene un errore.,Amministrazione,Media
+195,Anoamlia stampante,La stampante laser ha un'anomalia nella stampa dei colori.,Tecnico,Media
+196,Preventivo sbagliato,"Abbiamo inivato un'offerta con un prezzo sbagliato, va corretta.",Tecnico,Media
+197,Anomalia listino,Ho riscontrato un'anomalia nel prezzo caricato a sistema.,Commerciale,Media
+198,PC bloccati,"I computer dell'ufficio non si accendono, siamo tutti fermi.",Amministrazione,Alta
+199,Lnetezza navgiazione,"Buongiorno, vi scrivo per segnalare che da questa mattina si regisrta un rallentamento della rete.",Tecnico,Media
+200,Errore cnotratto,C'è un errore di battitura nella clausola 4 del contratto.,Tecnico,Media
+201,Lnetezza navigazione,"Buongiorno, vi scrivo per segnalare che da questa mattina si registra un rallentamento della rete.",Tecnico,Media
+202,Anomalia listino,Ho riscontrato un'anomalia nel prezzo caricato a sistema.,Commerciale,Bassa
+203,Preventivi sbagliati,"Abbiamo inviato delle offerte con i prezzi sbagliati, vanno corrette.",Commerciale,Media
+204,Stipendio bloccato,Il bonifico del mio stipendio è bloccato in banca.,Amministrazione,Alta
+205,Ordine bloccato,"La spedizione per il cliente VIP è ferma, situazione critica.",Commerciale,Alta
+206,Server guasti,"I server principali sono caduti, l'intera rete aziendale è giù.",Tecnico,Alta
+207,Corodinate IBAN,Mandatemi l'IBAN per il nuovo cliente americano.,Tecnico,Bassa
+208,Contratti scaduti,"I rinnovi dei contratti sono scaduti, dobbiamo ricontattarli.",Commerciale,Alta
+209,Monitor spenti,Gli schremi delle nuove postazioni rimangono ner.i,Tecnico,Media
+210,Errori IVA,Gli importi calcolati per le imposte cotnengono numerosi errori.,Amministrazione,Media
+211,Coordinate IBAN,Mandatemi l'IBAN per il nuovo cliente americaon.,Amministrazione,Bassa
+212,Ordine bloccato,"La spedizione per il cilente VIP è ferma, situazione cirtica.",Commerciale,Alta
+213,Codici IBAN,Mandatemi i codici bancari e gli IBAN per i nuovi clienti.,Amministrazione,Bassa
+214,Pagamento,Pagamento fornitore respinto.,Amministrazione,Bassa
+215,Password,Password scaduta. Reset urgente.,Tecnico,Alta
+216,Stapmanti rotte,"Le stampanti del secondo piano sono rotte, i toner sono difettosi.",Tecnico,Media
+217,Ritardo,Forte ritardo consegna. Cliente furioso.,Commerciale,Media
+218,Nuoiv lead,Abbiamo ricevuto ottiim conttati e nuovi lead dall'evento di ieri.,Commerciale,Bassa
+219,Urgenza monitor,"Lo schermo è nero, mi sreve un intervento urgente.",Tecnico,Alta
+220,Errroi IVA,Gli importi calcolati per le imposte contengono numerosi errori.,Amministrazione,Media
+221,Nuovi lead,Abbiamo ricevuto ottimi cotnatti e nuovi lead dall'evento di ieri.,Commerciale,Bassa
+222,Monitor spenti,Gli schermi delle nuove postazioni rimangono enri.,Tecnico,Bassa
+223,Ordini bloccati,Le spedizioni per i clienti VIP sono freme in magazzino.,Commerciale,Alta
+224,Server offline,"Il server principale ha subito un guasto hardwaer, siamo offline.",Tecnico,Alta
+225,Monitor spenti,Gli schermi delle nuove postazioni rimangono neri.,Tecnico,Bassa
+226,Ritardo,Forte ritardo consegna. Cliente furioso.,Commerciale,Media
+227,Preventvii sbagliati,"Abbiamo inviato delle offerte con i prezzi sbagliati, vanno corrtete.",Commerciale,Media
+228,Coordinate IBAN,Mandatemi l'IBAN per il nuvoo cliente americano.,Amministrazione,Bassa
+229,Nuovi lead,Abbiamo ricevuto ottimi contatti e nuovi lead dall'evento di ieri.,Commerciale,Bassa
+230,Pagamento,Pagamento fornitore respinto.,Amministrazione,Bassa
+231,Fattura da controllare,C'è un problema con la fattura del fornitore Rossi.,Amministrazione,Media
+232,Rimborsi ritardo,Ci sono ritardi nei rimborsi delle trasferte di Roma e Milano.,Commerciale,Media
+233,Preventivo sbagliato,"Abbiamo inviato un'offerta con un prezzo sbagliato, va corretta.",Commerciale,Media
+234,Invio cataloghi,Ricordatevi di mandare i pdf con i nuovi cataloghi ai clienti storici.,Commerciale,Bassa
+235,Documentazione,"Salve, avrei necessità che mi mandaste le certificazioni uniche.",Amministrazione,Bassa
+236,Virus,Malware rilevato. PC inutilizzabile.,Tecnico,Alta
+237,Stipendi bloccati,"I bonifcii degli stipendi sono stati respinti, situazoine grave.",Amministrazione,Alta
+238,Contratti scaduti,"I rinnovi dei contratti sono scaduti, dobbiamo ricontattarli.",Commerciale,Alta
+239,Codici IBAN,Mandatemi i codici bancari e gli IBAN per i nuovi clienti.,Amministrazione,Bassa
+240,Fattura da controllare,C'è un problema con la fattura del fronitore Rossi.,Amministrazione,Media
+241,Preventiov sbagliato,"Abbiamo inviato un'offerta con un prezzo sbaglitao, va corretta.",Commerciale,Media
+242,Virus,Malware rilevato. PC inutilizzabile.,Tecnico,Alta
+243,PC bloccati,"I computer dell'ufficio non si accendon,o siamo tutti fermi.",Tecnico,Alta
+244,Monitor sepnti,Gli schermi delle nuove postazioni rimangono neri.,Tecnico,Bassa
+245,Errori di sistema,"I programmi restituiscono cnotinui errori, non riusciamo a lavorare.",Tecnico,Media
+246,Contratti scaduti,"I rinnovi dei contratti sono scaduti, odbbiamo ricontattarli.",Commerciale,Alta
+247,Preventivi sbagliati,"Abbiamo inviato delle offerte con i prezzi sbagliati, vanno corrette.",Commerciale,Media
+248,Ritardo,Forte ritardo consegna. Cleinte furioso.,Commerciale,Media
+249,PC bloccato,"Il computer non si accende, la situazione è bloccante per il mio lavoro.",Tecnico,Media
+250,Coordinate IBAN,Mandatemi l'IBAN per il nuovo cliente americano.,Amministrazione,Bassa
+251,Lentezza navigazione,"Buongiorno, vi scrivo per segnalare che da questa mattina si registra un rallentamento della rete.",Tecnico,Media
+252,Ritardo,Forte ritardo consegna. Cliente furioso.,Commerciale,Bassa
+253,Problema legale,Vi scrivo urgentemente perché il cliente ha minacciato vie legali.,Commerciale,Alta
+254,Guasto,Rete giù. Fate presto.,Tecnico,Alta
+255,Fattura da controllare,C'è un problema con la fattura del fornitore Rossi.,Amministrazione,Media
+256,Pezzo difettoso,Il mouse appena consegnato sembra difettoso.,Tecnico,Media
+257,Ritardo,Forte ritardo cnosegna. Cliente furioso.,Commerciale,Media
+258,Preventivo bsagliato,"Abbiamo inviato un'offerta con un prezzo sbagliato, va corretta.",Commerciale,Media
+259,Rimborsi irtardo,Ci sono ritardi nei rimborsi delle trafserte di Roma e Milano.,Tecnico,Media
+260,Contratto in scadenaz,"Il rinnovo è scaduto ieri, rischiamo di perdere il cliente, urgente!",Commerciale,Alta
+261,Odrine bloccato,"La spedizione per il cliente VIP è frema, situazione critica.",Commerciale,Alta
+262,Preventivi sbagliati,"Abbiamo inviato delle offerte con i prezzi sbagliati, vanno corrette.",Commerciale,Media
+263,Errore IVA,L'importo calcolato per l'imposta ocntiene un errore.,Commerciale,Media
+264,Pagamento,Pagamento fornitore respinto.,Amministrazione,Bassa
+265,Guasto portale,"Buongiorno, vi comunico che il portale pagamenti ha un guasto.",Amministrazione,Alta
+266,Contratto in scadenza,"Il rinnovo è scaduto ieri, rischiamo di peredre il clienet, urgente!",Commerciale,Alta
+267,Sofwtare in crash,"Salve, volevo segnalaer che il gestionale crasha in cotninuazione.",Tecnico,Alta
+268,Coordinate IBAN,Mnadatemi l'IBAN per il unovo cliente americano.,Amministrazione,Bassa
+269,Sconto,Applicare socnto 10% suibto.,Commerciale,Bassa
+270,Ordini bloccati,Le spedizioni per i clienti VIP sono ferme in magazzino.,Commerciale,Alta
+271,Anomalia listino,Ho riscontrato un'anomalia nel prezzo caricato a sistema.,Commerciale,Media
+272,PC bloccati,"I computer dell'ufficio non si cacendono, siamo tutti fermi.",Commerciale,Bassa
+273,Stipendio bloccato,Il obnifico del mio stipendio è bloccato in banca.,Amministrazione,Alta
+274,Pagamento,Pagamento fornitore respinto.,Amministrazione,Bassa
+275,Pagamento,Pagamento fornitore respinto.,Amministrazione,Bassa
+276,Guasto portale,"Buongiorno, vi comunico che il portale pagamenti ha un guasto.",Amministrazione,Alta
+277,Sconto,Applicare sconto 10% subito.,Commerciale,Bassa
+278,Preventivi sbagliati,"Abbiamo niviato delle offerte con i prezzi sbagliati, vanno corrette.",Commerciale,Media
+279,Guasto portale,"Buongiorno, vi comunico che il portale pagamenit ha un guasto.",Amministrazione,Alta
+280,Errore di sistema,Il programma restituisce un errore durante il salvataggio.,Tecnico,Media
+281,Spese,Allego note spese.,Amministrazione,Bassa
+282,Preventivo sbagliato,"Abbiamo inviato nu'offerta con un prezzo sbagliato, va corretta.",Commerciale,Media
+283,Errori di sistema,"I programmi restituiscono continui errori, non riusciamo a lavoraer.",Tecnico,Media
+284,F24,Scadenza F24 oggi. Urgente!,Amministrazione,Alta
+285,PC bloccato,"Il computer non si cacende, la situazione è bloccante per il mio lavoro.",Tecnico,Alta
+286,Software in crash,"Salve, volevo segnalare che il gestionale crasha in continuazione.",Tecnico,Alta
+287,Ritardo,Forte ritardo consegna. Cliente furioso.,Commerciale,Media
+288,Errore di sitsema,Il programma restituisce un errore duarnte il salvataggio.,Tecnico,Media
+289,Anomalia stampante,La stampante laser ha un'anomalia nella stampa dei colori.,Tecnico,Media
+290,Stampanti rotte,"Le stampanti del secondo piano sono rotte, i toner sono difetotsi.",Tecnico,Media
+291,Errori IVA,Gli importi calcolati per le imposte contengono numerosi errori.,Tecnico,Media
+292,Errore di isstema,Il programma restituisce un errore durante il salvataggi.o,Tecnico,Media
+293,Documentazione,"Salve, avrei necessità che mi mandaste le certificazioni uniche.",Commerciale,Bassa
+294,Strategia fiera,"In seguito all'evento di ieri, vorrei fissare un incontro per discutere la strategia.",Commerciale,Alta
+295,PC bloccati,"I computer dell'ufficio non si accendono, siamo tutti fermi.",Tecnico,Alta
+296,F24,Scadenza F24 oggi. Urgente!,Amministrazione,Alta
+297,Serevr guasti,"I servre principali sono caduti, l'intera rete aziendale è giù.",Tecnico,Alta
+298,Monitor spenti,Gli schermi delle nuove postazioni rimangono neri.,Tecnico,Media
+299,Calcolo sbagliato,Ho notato che la trattenuta in busta paga è bsagliata.,Amministrazione,Media
+300,Contratto in scadenza,"Il rinnovo è scaduto ieri, rischiamo di perdere il lciente, urgente!",Commerciale,Alta
+301,Calcolo sbagliato,Ho notato che la trattenuta in busta paga è sbagliata.,Amministrazione,Media
+302,Anomalai listino,Ho riscontrato un'anomalia nel prezzo caricato a sistema.,Commerciale,Media
+303,Caloclo sbagliato,Ho notato che la trattenuta in busta paga è sbagliata.,Amministrazione,Media
+304,Errore contratto,C'è un errore di battitura nella clausola 4 del contratto.,Commerciale,Media
+305,Urgenza monitor,"Lo schermo è nero, mi serve un intervento urgente.",Tecnico,Alta
+306,Fattura da controllare,C'è un problema con la fattura del fornitroe Rossi.,Amministrazione,Media
+307,F24,Scadenza F24 oggi. Urgente!,Commerciale,Alta
+308,Fattura da controllare,C'è un problema con la fattura del fornitore Rossi.,Amministrazione,Bassa
+309,Call,Domani alle 10 call con prospect.,Commerciale,Media
+310,Errore IVA,L'importo calcolato per l'imposta contiene un errore.,Amministrazione,Media
+311,Fatture errate,Ci sono problemi con le fatture inviate dai fornitori questo mese.,Amministrazione,Media
+312,Server guasti,"I server prinicpali sono caduti, l'intera rete aziendale è giù.",Tecnico,Alta
+313,Monitor spenti,Gli schermi delle nuove postazioni rimangono neri.,Tecnico,Media
+314,Guasto portale,"Buongiorno, vi comunico che il portale pagamenti ha un guasto.",Amministrazione,Alta
+315,Errore IVA,L'importo calcolato per l'imposta contiene un errore.,Amministrazione,Media
+316,Errori IVA,Gli improti calcolati per le imposte contengono numerosi errori.,Amministrazione,Media
+317,Errore di sistema,Il programma restituisce un errore durante il salvataggio.,Tecnico,Media
+318,Rimborsi ritardo,Ci sono ritardi nei rimborsi delle trasferte di Roma e Milano.,Amministrazione,Media
+319,Calcolo sbagliato,Ho notato che la trattenuta in busta paga è sbagliata.,Amministrazione,Media
+320,Password,Password scaduta. Reset urgente.,Tecnico,Alta
+321,PC bloccato,"Il ocmputer non si accende, la siutazione è bloccante per il mio lavoro.",Tecnico,Alta
+322,Strategia fiera,"In seguito all'evenot di irei, vorrei fissare un incontro per discutere la strategia.",Commerciale,Bassa
+323,Stipnedio bloccato,Il bonifico del mio stipendio è bloccato in banca.,Amministrazione,Alta
+324,Virus,Malware rilevato. PC inutilizzabile.,Tecnico,Alta
+325,Pagamento,Pagamento fornitore respinto.,Amministrazione,Bassa
+326,Sconto,Applicare sconto 10% subito.,Commerciale,Bassa
+327,Ritardo,Forte rtiardo consegna. Cliente furioso.,Commerciale,Media
+328,Errore contratto,C'è un errore di battitura nella calusola 4 del contratto.,Commerciale,Media
+329,Virus,Malware rilevato. PC inutilizzabile.,Tecnico,Media
+330,Ritardo,Forte ritardo consegna. Cliente furioso.,Commerciale,Media
+331,Stampanti rotte,"Le stampanti del secondo piano sono rotte, i toenr sono difettosi.",Tecnico,Media
+332,Call,Domani alle 10 call con prospect.,Commerciale,Bassa
+333,Nuovi lead,Abbiamo ricevuto ottimi contatti e nuovi lead dall'evento di ieri.,Commerciale,Bassa
+334,Server offline,"Il server principale ha subito un guasot hardware, siamo offline.",Tecnico,Bassa
+335,Sconto,Applicare sconto 10% subito.,Commerciale,Bassa
+336,Problema legale,Vi scrivo urgentemente pecrhé il cliente ha minacciato vie legali.,Commerciale,Alta
+337,Call,Domani alle 10 call con prospect.,Commerciale,Bassa
+338,Call,Domani alle 10 call con prospect.,Commerciale,Media
+339,Rimborsi ritardo,Ci sono ritardi nei rimborsi delle trasferte di Roma e Milano.,Amministrazione,Media
+340,Fattura da controllare,C'è un problema con la fattura del fornitore Rossi.,Amministrazione,Media
+341,Errori IVA,Gli importi calcolati per le imposte contengono numerosi errori.,Tecnico,Media
+342,Urgenza monitor,"Lo schermo è nero, mi serve un intervento urgente.",Tecnico,Alta
+343,Anomalia stampante,La stampante lsaer ha un'anmoalia nella stampa dei colori.,Tecnico,Media
+344,Coordinate IBAN,Mandatemi l'IBAN per il nuovo cliente americano.,Amministrazione,Bassa
+345,Stipedni bloccati,"I bonifici degli stipendi sono stati respinti, situazione grave.",Amministrazione,Alta
+346,PC bloccati,"I computer dell'ufficio non si accendono, siamo tutti ferm.i",Tecnico,Alta
+347,Guasto portale,"Buongiorno, vi comunico che il portale pagamenti ha un guasto.",Amministrazione,Alta
+348,Anomalia listino,Ho riscontrato un'anomalia nel prezzo caricato a sistema.,Commerciale,Media
+349,Errori di sistema,"I programmi restituiscono continui errori, non riusciamo a lavorare.",Tecnico,Media
+350,Password,Password scaduta. Reste urgente.,Tecnico,Alta
+351,Invio cataloghi,Ricordatevi di mandare i pdf con i nuovi catlaoghi ai clienti storici.,Commerciale,Bassa
+352,Stipendio bloccato,Il bonifico del mio stipendio è bloccato in banca.,Amministrazione,Alta
+353,Prbolema legale,Vi scrivo urgentemente perché il cliente ha minacciato vie legali.,Commerciale,Alta
+354,Virus,Malware rilevato. PC inutliizzabile.,Tecnico,Alta
+355,Fatture errate,Ci sono problemi con le fatture inviate dai forntiori questo msee.,Amministrazione,Media
+356,Strategia fiera,"In seguito all'evento di ieri, vorrei fissare un incontro per discutere la strategia.",Commerciale,Bassa
+357,Errore di sistema,Il programma restituisce un errore durante il salvataggio.,Tecnico,Media
+358,Ordini bloccati,Le spedizinoi per i clienti VIP sono ferme in magazzino.,Commerciale,Alta
+359,Coordinate IBAN,Mandatemi l'IBAN per il nuovo cliente americano.,Amministrazione,Bassa
+360,Strategia firea,"In seguito all'evento di ieri, vorrei fissare un incontro per discutere la strategia.",Commerciale,Bassa
+361,Coordinate IBAN,Mandatemi l'IBAN per il nuovo cilente americano.,Amministrazione,Bassa
+362,Virus,Malware rilevato. PC inutilizzabile.,Tecnico,Media
+363,Anomalia listino,Ho riscontrato un'anomalia nel prezzo caricato a sistema.,Amministrazione,Media
+364,Anmoalia stampante,La satmpante laser ha un'naomalia nella satmpa dei colori.,Tecnico,Media
+365,Errore contratto,C'è un errore di battitura nella lcausola 4 del contratto.,Tecnico,Media
+366,Problema legale,Vi scrivo urgentemente perché il cliente ha minacciato vie legali.,Commerciale,Alta
+367,Invio cataloghi,Ricordatevi di mandare i pdf con i nuovi cataloghi ai clienti storici.,Commerciale,Bassa
+368,Nuovi lead,Abbiamo ricevuto ottimi contatti e nuovi lead dall'evento di ieri.,Commerciale,Bassa
+369,Stipendio bloccato,Il bonifico del mio stipendio è bloccato in banca.,Amministrazione,Alta
+370,Errore di sistema,Il programma restituisce un errore durante il salvaatggio.,Tecnico,Media
+371,F24,Scadenza F24 oggi. Urgente!,Amministrazione,Alta
+372,Ritardo,Forte ritardo consegna. Cliente furioso.,Commerciale,Media
+373,Stampanti rotte,"Le stampanti del secondo piano sono rotte, i toner sono difettosi.",Tecnico,Media
+374,Spees,Allego note spese.,Amministrazione,Alta
+375,Coordinate IBAN,Mandatemi l'IBAN per il nuovo cliente americano.,Amministrazione,Bassa
+376,Password,Password scaduta. eRset urgenet.,Tecnico,Alta
+377,Call,Domani alle 10 call con prospect.,Commerciale,Bassa
+378,Contratti scaduti,"I irnnovi dei contratti sono scaduti, dobbiamo ricontattarli.",Commerciale,Alta
+379,Calcolo sbagliato,Ho notato che la trattenuta in butsa paga è sbagliata.,Amministrazione,Media
+380,Sconto,Applicare sconto 10% subit.o,Commerciale,Bassa
+381,Software in crash,"Salve, volevo segnalare che il gestionale crasha in continuazione.",Tecnico,Alta
+382,Rimborsi ritardo,Ci sono ritardi nei rimborsi delle trasferte di Roma e Milano.,Amministrazione,Media
+383,Preventivo sbagliato,"Abbiamo inviato un'offerta con un prezzo sbagliato, va corretat.",Commerciale,Media
+384,Strateiga fiera,"In seguito all'evento di ieri, vorrei fissare un incontro per discutere la strategia.",Commerciale,Bassa
+385,Stampanti rotte,"Le stampanti del secondo piano sono rotte, i toner sono difettosi.",Tecnico,Media
+386,Urgenza monitor,"Lo scehrmo è nero, mi serev un intervetno urgenet.",Tecnico,Alta
+387,Problema legale,Vi scrivo urgentemente perché il cliente ha minacciato vie legali.,Commerciale,Alta
+388,Software in crash,"Salve, volevo segnalare che il gestionlae crasha in continuazione.",Tecnico,Alta
+389,Stipnedi bloccati,"I bonifici degli stipendi sono stati respinti, situazione grave.",Amministrazione,Alta
+390,F24,Scadenza F24 ogig. Urgente!,Amministrazione,Alta
+391,Monitor spenti,Gli schermi delle nuove postazioni rimangono neri.,Tecnico,Bassa
+392,Server offline,"Il server principale ha subito un guasto hardware, siamo offline.",Tecnico,Alta
+393,Codici IBAN,Mandatemi i codici bancari e gli IBAN per i nuovi clienti.,Amministrazione,Bassa
+394,Preventivo sbagliato,"Abbiamo invaito un'offerta con un prezzo sbagliato, va corretta.",Commerciale,Media
+395,Anomalia listino,Ho riscontarto un'anomalia nel prezzo caricato a sistema.,Commerciale,Media
+396,Password,Password scaduta. Reset urgente.,Tecnico,Alta
+397,Errore contratto,C'è un errore di battitura nella clausola 4 del contratto.,Tecnico,Media
+398,Contratti scaduti,"I rinnovi dei contratti sono scaduti, dobbiamo rciontattarli.",Commerciale,Alta
+399,PC bloccati,"I computer dell'ufficio non si accendono, saimo tutti fermi.",Tecnico,Alta
+400,Errore di sistema,Il programma restituisce un rerore durante il salvataggio.,Tecnico,Media
+401,Spese,Allego note spese.,Amministrazione,Media
+402,Guasto portale,"Buongiorno, vi comunico che il potrale pagamenti ha un guasto.",Amministrazione,Alta
+403,Stampanti rotte,"Le stampanti del secondo piano sono rotte, i toner sono difettosi.",Tecnico,Media
+404,Sconto,Applicare sconto 10% subit.o,Commerciale,Bassa
+405,Errore IVA,L'importo caloclato per l'imposta contiene un errore.,Amministrazione,Media
+406,Errore IVA,L'importo calcolato per l'imposta contiene un errore.,Amministrazione,Media
+407,Errore IVA,L'importo calcolato per l'imposta contiene un errore.,Amministrazione,Media
+408,aPgamento,Pagamenot fornitore respinto.,Amministrazione,Bassa
+409,Servre offline,"Il srever principale ha subito un guasto hardware, siamo offline.",Tecnico,Alta
+410,Stiepndi bloccati,"I bonifici degli stiepndi sono stati respinti, situazione grave.",Amministrazione,Alta
+411,Sconto,Applicare sconto 10% subito.,Commerciale,Bassa
+412,Nuovi lead,Abbiamo ricevuto ottimi contatti e nuovi lead dall'evento di ieri.,Commerciale,Bassa
+413,Errore IVA,L'importo calcolato per l'imposta contiene un errore.,Amministrazione,Media
+414,Password,Password scaduta. Reset urgente.,Amministrazione,Alta
+415,Urgenza monitor,"Lo schermo è nero, mi serve un intervento urgente.",Tecnico,Alta
+416,Pagamento,Pagamento fornitore respinto.,Amministrazione,Bassa
+417,Viurs,Malware rilevato. PC inutilizzabile.,Tecnico,Bassa
+418,Nuovi lead,Abbiamo ricevtuo ottimi contatti e nuovi lead dall'evento di ieri.,Commerciale,Bassa
+419,Passwrod,Password scaduta. Reset urgente.,Tecnico,Alta
+420,Ritardo,Forte ritardo consegna. Cliente furioso.,Commerciale,Media
